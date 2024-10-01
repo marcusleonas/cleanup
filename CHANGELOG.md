@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "cleanup" extension will be documented in this file.
+## v0.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+Added basic functionality to close all open editors, and collapse all folders
+inside of the explorer.
