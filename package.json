@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/marcusleonas/vscode-cleanup"
   },
+  "icon": "assets/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
