@@ -1,7 +1,7 @@
 {
   "name": "marcusleonas-cleanup",
-  "displayName": "Cleanup",
-  "description": "Cleanup your vscode",
+  "displayName": "Cleanup your VSCode",
+  "description": "Cleanup your vscode when working on large projects",
   "publisher": "marcusleonasharvey",
   "repository": {
     "type": "git",
