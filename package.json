@@ -2,6 +2,10 @@
   "name": "cleanup",
   "displayName": "cleanup",
   "description": "Cleanup your vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusleonas/vscode-cleanup"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
