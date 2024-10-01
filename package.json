@@ -5,10 +5,10 @@
   "publisher": "marcusleonasharvey",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcusleonas/vscode-cleanup"
+    "url": "https://github.com/marcusleonas/cleanup"
   },
   "icon": "assets/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.89.0"
   },
